@@ -1,6 +1,6 @@
-# Real-Time E-Commerce Order Analytics
+# Real-Time Amazon Order Analytics
 
-A local, end-to-end pipeline that turns simulated order activity into analytics-ready data. It streams events through Kafka, processes them with PySpark, and organizes the workflow with Airflow—supporting faster visibility into sales, products, regions, and customer segments.
+A local, end-to-end pipeline that turns simulated Amazon order activity into analytics-ready data. It streams events through Kafka, processes them with PySpark, and organizes the workflow with Airflow—supporting faster visibility into sales, products, regions, and customer segments.
 
 ## What’s inside
 
